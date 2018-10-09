@@ -48,6 +48,7 @@
     padding: 0; }
 }
 
+/* dif styles for dif devices */
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
